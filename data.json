@@ -1,0 +1,56 @@
+[
+    {
+        "Name": "Nitish kumar",
+        "Age": 23,
+        "pin": 1425,
+        "Email": "nitsh@gmail.com",
+        "Phone_No": "2365142325",
+        "accountNo": "8 l 7 6 7 I b j",
+        "Balance": 4998002
+    },
+    {
+        "Name": "saurav kumar",
+        "Age": 20,
+        "pin": 1236,
+        "Email": "ravish@gmail.com",
+        "Phone_No": "1236547890",
+        "accountNo": "1 2 e M 3 4 N h",
+        "Balance": 499764
+    },
+    {
+        "Name": "gola kumar",
+        "Age": 20,
+        "pin": 1425,
+        "Email": "gola@gamil.com",
+        "Phone_No": "1245368945",
+        "accountNo": "E 9 y 1 R 2 3 U",
+        "Balance": 500000
+    },
+    {
+        "Name": "Ravish Kumar",
+        "Age": 20,
+        "pin": 1234,
+        "Email": "ravish@gmail.com",
+        "Phone_No": "1254639874",
+        "accountNo": "2 1 8 H Q I 7 G",
+        "Balance": 0
+    },
+    {
+        "Name": "Nitish Kumar",
+        "Age": 25,
+        "pin": 1526,
+        "Email": "nitish@gmail.com",
+        "Phone_No": "1526362514",
+        "accountNo": "u2r55Q1l",
+        "Balance": 5050
+    },
+    {
+        "Name": "Ravish",
+        "Age": 23,
+        "pin": 1526,
+        "Email": "ravisj@gmail.com",
+        "Phone_No": "1236251425",
+        "accountNo": "3P9NeQ65",
+        "Balance": 50
+    }
+]
